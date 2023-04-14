@@ -7,6 +7,4 @@ Backtracking is an algorithmic technique for solving problems recursively by try
 In the context of the project, we start by checking whether a particular number can be placed in the current cell ,if yes then we place that number in this cell and we recursively solve for all the other unoccupied cells.Here, at any point if we reach a state which is not going to give the possible outcome , we backtrack and eliminate all the calls which can happen from that particular call. Thus, minimizing the answer set and reducing the time of search.
 
 # Working of the Sudoku Solver
-[screen-capture (1).webm](https://user-images.githubusercontent.com/101987244/232132118-f6d7cecf-023d-4f6c-a3bb-8a7ce69b6206.webm)
-
-
+![SudokuSolver](https://user-images.githubusercontent.com/101987244/232140271-8258b26f-c652-4da1-bd7b-cd9a67288dbf.gif)
