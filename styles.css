@@ -1,0 +1,34 @@
+* {
+    background-color: rgb(53, 65, 65);
+}
+#container {
+    text-align: center;
+}
+table { 
+    border-collapse: collapse; 
+    font-size: 2em; 
+    margin: 0 auto; 
+}
+colgroup, tbody { 
+    border: solid medium; 
+}
+td { 
+    border: solid thin; 
+    height: 1.5em ;
+    width: 1.5em; 
+    text-align: center; 
+    padding: 0; 
+    background-color: azure;
+}
+button { 
+    margin-top: 15px; 
+    font-size: 1.5em; 
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+}
+footer {
+    color: rgb(200, 255, 0);
+    text-align: right;
+}
